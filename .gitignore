@@ -13,3 +13,6 @@ pre-publish
 pre-release.js
 release*
 nacis
+.editorconfig
+.gitignore
+.gitattributes
